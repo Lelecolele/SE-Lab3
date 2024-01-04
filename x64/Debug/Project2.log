@@ -1,0 +1,14 @@
+﻿  address.cpp
+  ambulance.cpp
+C:\Users\Leandro\Desktop\Project2\ambulance.cpp(260,18): warning C4101: “owned”: 未引用的局部变量
+  appointment.cpp
+  doctor.cpp
+  driver.cpp
+  global.cpp
+  hospital.cpp
+  main.cpp
+  nurse.cpp
+  patient.cpp
+  person.cpp
+  正在生成代码...
+  Project2.vcxproj -> C:\Users\Leandro\Desktop\Project2\x64\Debug\Project2.exe
